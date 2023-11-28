@@ -5,11 +5,11 @@ nomifactory.quest.normal.line.0.title=始まり
 nomifactory.quest.normal.line.0.desc=GregTech §7LV§r時代: 工場の作成を開始しましょう！%n%n§bDeep Mob Evolution§rと初期の§bEnderIO§r、§bApplied Energistics 2のデジタルストレージが解禁されます。§r%n%n§3工業用電気炉§rを作成することで高度な合金や素材を精錬できるようになります。
 
 #line 1 of mode normal
-nomifactory.quest.normal.line.1.title=Early Game
+nomifactory.quest.normal.line.1.title=ゲーム序盤
 nomifactory.quest.normal.line.1.desc=GregTech §bMV§r Tier: new machines and rudimentary ore processing.%n%nChemistry for §6Plastics§r, and build a §3Distillation Tower§r.%n%n§bApplied Energistics 2§r automation. Explore §bActually Additions§r.
 
 #line 2 of mode normal
-nomifactory.quest.normal.line.2.title=Mid Game
+nomifactory.quest.normal.line.2.title=ゲーム中盤
 nomifactory.quest.normal.line.2.desc=GregTech §6High Voltage§r, §5Extreme Voltage§r, and §1Insane Voltage§r tiers:%n%n§3Cryogenic Distillation§r, and petrochemistry for §6Epoxy§r and §2Cetane-Boosted Diesel§r.%n%nCraft §6Nether Stars§r and unlock §bThermal Expansion§r machines.%n%nBuild a§b NuclearCraft§r fission reactor to obtain new materials.%n%nBuild a Space Station and Warp Core.
 
 #line 3 of mode normal
@@ -17,11 +17,11 @@ nomifactory.quest.normal.line.3.title=Progression
 nomifactory.quest.normal.line.3.desc=It's always rewarding to take a step forward.%n%nThis tab outlines the progression of various things in §5Nomifactory§r.%n%nCircuits are the primary measure of your progress.
 
 #line 4 of mode normal
-nomifactory.quest.normal.line.4.title=Late Game
+nomifactory.quest.normal.line.4.title=ゲーム終盤
 nomifactory.quest.normal.line.4.desc=GregTech §dLuV§r, ZPM, §3UV§r, §4UHV§r tiers:%n%nBuild §3Assembly Lines§r, §3Fusion Reactors§r, and more!%n%nAutomate in style with §bPackagedAuto§r. Climb the tiers of §6Micro Miners§r.%n%n§bDraconic Evolution§r for fusion crafting and energy storage.
 
 #line 5 of mode normal
-nomifactory.quest.normal.line.5.title=End Game
+nomifactory.quest.normal.line.5.title=エンドコンテンツ
 nomifactory.quest.normal.line.5.desc=You're in the endgame now...%n%nHarvest entire microverses and unlock the §dCreative Tank§r.%n%nPut your automation to the ultimate test as you progress towards the final goal: the §dCreative Chest§r.
 
 #line 6 of mode normal
