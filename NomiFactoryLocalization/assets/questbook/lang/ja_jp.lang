@@ -73,8 +73,8 @@ nomifactory.quest.normal.db.5.title=採掘用ハンマー
 nomifactory.quest.normal.db.5.desc=§a採掘用ハンマー§rは、比較的安く早く範囲を採掘できます。(しゃがまない限り)3x3の範囲のブロックを素早く採掘します。%n%n§2今ではGTCEu本体に採掘用ハンマーが実装されています!GTツールの素材で作成できます。 §r%n%n報酬としてもらえる4つのダイヤ製採掘用ハンマーは長く使えるうえ、必要であれば金床とダイヤモンドを使用すれば何時でも修理できます。
 
 #db 6 of mode normal
-nomifactory.quest.normal.db.6.title=§2More Materials
-nomifactory.quest.normal.db.6.desc=続ける前に、いくつかの素材が必要になります。 %n%n§6レッドストーン§f:低い座標で見つかる巨大な鉱脈で、§6辰砂§fや§6ルビー§fと一緒に見つけられます。%n%n§6銅§f:2つの主要な鉱脈があります。§6四面銅鉱§fは高い座標で、§6黄銅鉱§f鉱脈は低い座標で対になっていくつかの§6鉄§fと共に生成されます。You'll also find §6Malachite§f inside of Iron veins, this is another type of copper ore.%n%n§6Tin§f: Found essentially at ground level. §6Cassiterite§f is another type of tin ore, and they're always found together. If you cannot find a vein of tin, there are small amounts of tin inside veins of §6Aluminium§f and §6Rock Salt§f, which might be enough to hold you over until you find a proper tin vein.%n%n§6Coal§f: Found in relatively shallow depths. §6Lignite Coal§f is §2removed.%n%n§6Gold§f: Found inside of §6Magnetite§f veins, close to the surface.
+nomifactory.quest.normal.db.6.title=§2沢山の資源
+nomifactory.quest.normal.db.6.desc=続ける前に、いくつかの素材が必要になります。 %n%n§6レッドストーン§f:低い座標で見つかる巨大な鉱脈で、§6辰砂§fや§6ルビー§fと一緒に見つけられます。%n%n§6銅§f:2つの主要な鉱脈があります。§6四面銅鉱§fは高い座標で、§6黄銅鉱§f鉱脈は低い座標で対になっていくつかの§6鉄§fと共に生成されます。鉄の鉱脈内には§6孔雀石§f も見つかります。これも銅鉱石の一種です。%n%n§6錫§f: 基本的に地表付近で見つかります§6錫石§fもスズ鉱石の一種で、常に一緒に見つかります。 錫の鉱脈が見つからない場合でも、§6アルミニウム§fと§6岩塩§fの鉱脈の中に少量の錫が存在するため、適切な錫の鉱脈が見つかるまで十分に持ちこたえられるでしょう。%n%n§6石炭§f: 比較的浅いところで見つけられます。 §6褐炭§fは§2削除されました。%n%n§6金§f:§6磁鉄鉱§f鉱脈の内部、表層近くで発見されます。
 
 #db 7 of mode normal
 nomifactory.quest.normal.db.7.title=§2Cables
