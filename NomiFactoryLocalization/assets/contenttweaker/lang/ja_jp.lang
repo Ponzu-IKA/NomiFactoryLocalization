@@ -143,10 +143,10 @@ gregtech.material.phosphorus_trichloride=Phosphorus Trichloride
 gregtech.material.phosphoryl_chloride=Phosphoryl Chloride
 gregtech.material.tributyl_phosphate=Tributyl Phosphate
 
-item.contenttweaker.omnicoin.name=ノミペニー [1]
-item.contenttweaker.omnicoin5.name=ノミニッケル [5]
-item.contenttweaker.omnicoin25.name=ノミクォーター [25]
-item.contenttweaker.omnicoin100.name=ノミドル [100]
+item.contenttweaker.omnicoin.name=Nomipenny [1]
+item.contenttweaker.omnicoin5.name=Nominickel [5]
+item.contenttweaker.omnicoin25.name=Nomiquarter [25]
+item.contenttweaker.omnicoin100.name=Nomidoller [100]
 
 item.contenttweaker.woodenwidget.name=木のウィジェット
 item.contenttweaker.stonewidget.name=石のウィジェット
@@ -376,14 +376,14 @@ item.contenttweaker.sixtyfoursmore.name=Stack-o'-S'more HexecontatessaraS'mingot
 
 item.contenttweaker.dark_red_coal.name=Dark Red Coal
 
-item.contenttweaker.hand_framing_tool.name=Hand Framing Tool
+item.contenttweaker.hand_framing_tool.name=お手軽骨組み装飾ツール
 
-item.contenttweaker.hand_framing_tool.desc1=Frame your drawers by hand!
-item.contenttweaker.hand_framing_tool.desc2=The Hand Framing Tool lets you frame drawers already placed in the world.
-item.contenttweaker.hand_framing_tool.desc3=To do this, the tool itself needs to be framed in a crafting table. See the item's crafting table recipes in JEI.
-item.contenttweaker.hand_framing_tool.desc4=Then, once the tool is framed, right clicking any drawers in-world will frame them.
-item.contenttweaker.hand_framing_tool.desc5=When right clicking any wood-type drawers in world, they will be turned into framed drawers.
-item.contenttweaker.hand_framing_tool.desc6=The frames/decorations will also be applied to them.
+item.contenttweaker.hand_framing_tool.desc1=ひきだしの骨組みを手作業で組み立てましょう！
+item.contenttweaker.hand_framing_tool.desc2=お手軽骨組み装飾ツールを使用すると、ワールドにすでに配置されているひきだしを骨組み化できます。
+item.contenttweaker.hand_framing_tool.desc3=これを行うには、ツール自体を作業台で使える状態にされている必要があります。 JEIでアイテムの作業台レシピを参照してください。
+item.contenttweaker.hand_framing_tool.desc4=次に、ツールが骨組み化されたら、ワールド内の任意のひきだしを右クリックすると、それらの骨組みに変換されます。
+item.contenttweaker.hand_framing_tool.desc5=ワールドにある木製ひきだしを右クリックした場合には、ひきだしの骨組みに変換されます。
+item.contenttweaker.hand_framing_tool.desc6=骨組み毎の装飾も適用されます。
 
 item.contenttweaker.pulsatingdust.name=Pulsating Dust
 item.contenttweaker.pulsatingmesh.name=Pulsating Mesh
